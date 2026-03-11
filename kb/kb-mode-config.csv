@@ -1,0 +1,5 @@
+mode,display_order,transcript_depth,log_depth
+auto,1,1,1
+work,2,1,1
+personal,3,1,1
+dish,4,2,3

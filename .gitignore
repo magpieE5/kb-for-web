@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+kb/.session
+kb/.open_modes_selected
+kb/kb.parquet

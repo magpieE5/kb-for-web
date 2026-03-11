@@ -1,0 +1,9 @@
+mode,is_auto,id,load_order
+seed,true,seed-kb-system,1
+seed,true,seed-foundations,2
+seed,true,accumulator-corrections,3
+seed,true,state,4
+auto,true,seed-auto-mode,
+work,true,reference-foundations,
+personal,true,reference-foundations,
+dish,true,seed-dish-mode,
