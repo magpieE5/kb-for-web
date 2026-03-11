@@ -1,5 +1,6 @@
 __pycache__/
 *.pyc
+.DS_Store
 kb/.session
 kb/.open_modes_selected
 kb/kb.parquet
